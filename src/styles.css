@@ -1,0 +1,9 @@
+html,body{
+    background-color: yellow;
+    margin: auto;
+}
+img{
+    width: 150px;
+    margin: auto;
+    opacity: .3;
+  }
